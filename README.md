@@ -34,5 +34,5 @@ https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-datalove
 ### Temperature data gathered around the World, dates range from 1750 - 2015.
 https://data.world/data-society/global-climate-change-data
 
-### Website for more Temperature data in Canada.
-https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
+### Canadian Well-Being Index
+https://open.canada.ca/data/en/dataset/56578f58-a775-44ea-9cc5-9bf7c78410e6
