@@ -16,8 +16,8 @@ The datasets referenced below include temperature data that is either gathered W
 
 ## Team Members
 
-- Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Kalli Van Stone: one sentence about you!
+- Allysa Webber: one sentence about you!
 - Sarah Quesnelle: I am a 4th year Mathematics student.
 
 ## Images
