@@ -28,11 +28,11 @@ The datasets referenced below include temperature data that is either gathered W
 
 ## References
 
-## Temperature data gathered in Canada, dates range from 1917 - 2017
+### Temperature data gathered in Canada, dates range from 1917 - 2017
 https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-dataloversbrazil
 
-## Temperature data gathered around the World, dates range from 1750 - 2015.
+### Temperature data gathered around the World, dates range from 1750 - 2015.
 https://data.world/data-society/global-climate-change-data
 
-## Website for more Temperature data in Canada.
+### Website for more Temperature data in Canada.
 https://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
