@@ -8,11 +8,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-We will be analyzing datasets that include the temperature ranges from the 18th century to the 21st century and determine if these datasets confirm that climate change is in fact a real problem we are facing today. We will also try to determine how the temperature change may have an impact on various Indigenous communities around British Columbia, Canada.
+We will be analyzing datasets that include the temperature ranges from the 18th century to the 21st century and determine if these datasets can validate that climate change is in fact a real problem we are facing today. We will also try to determine how the temperature change may have an impact on various Indigenous communities around British Columbia, Canada.
 
 ## Describe your dataset in about 150-200 words
 
-The datasets referenced below include temperature data that is either gathered Worldwide or just Canada specific. The years with which this data is gathered range from 1750 to 2017. Our selected datasets have a Public Domain license, meaning they are open and accessible by anyone and anywhere. The datasets each have at least 500 rows for selected communities around Canada at the time specified and at least 25 columns for each variable they were collecting data on.
+The datasets referenced below include Worldwide temperature data, though our focus, if possible, will be specific to British Columbia. The years with which this data is gathered range from 1750 to 2017. 
 
 ## Team Members
 
@@ -33,6 +33,12 @@ https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-datalove
 
 ### Temperature data gathered around the World, dates range from 1750 - 2015.
 https://data.world/data-society/global-climate-change-data
+https://berkeleyearth.org/data/
+Berkeley Earth’s data is licensed under Creative Commons BY-NC 4.0 International
 
 ### Canadian Well-Being Index
 https://open.canada.ca/data/en/dataset/56578f58-a775-44ea-9cc5-9bf7c78410e6
+Open Government License - Canada
+
+### Temperature Data Heat Map for BC
+https://open.canada.ca/data/en/dataset/2364749d-70a0-4874-956d-a636401ac5a6/resource/6ade85af-8d5e-4d6e-a429-6cf8d87516ba?inner_span=True
