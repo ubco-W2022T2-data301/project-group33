@@ -8,11 +8,11 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-We will be analyzing some temperature datasets, and determine if these datasets confirm that climate change is a real problem. We will also try to determine how this change would have an impact on Indigenous communities around the World.
+We will be analyzing datasets that include the temperature ranges from the 18th century to the 21st century and determine if these datasets confirm that climate change is in fact a real problem we are facing today. We will also try to determine how the temperature change may have an impact on various Indigenous communities around British Columbia, Canada.
 
 ## Describe your dataset in about 150-200 words
 
-The datasets referenced below include temperature data that is either gathered Worldwide or just Canada specific. The years with which this data is gathered range from 1750 to 2017. 
+The datasets referenced below include temperature data that is either gathered Worldwide or just Canada specific. The years with which this data is gathered range from 1750 to 2017. Our selected datasets have a Public Domain license, meaning they are open and accessible by anyone and anywhere. The datasets each have at least 500 rows for selected communities around Canada at the time specified and at least 25 columns for each variable they were collecting data on.
 
 ## Team Members
 
