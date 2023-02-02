@@ -24,7 +24,7 @@ The datasets referenced below include Worldwide temperature data, though our foc
 
 {You should use this area to add a screenshot of an interesting plot, or of your dashboard}
 
-<img src ="images/test.png" width="100px">
+![Canadian Temperature Change](images\Canada-temperature-chart.png)
 
 ## References
 
