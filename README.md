@@ -29,7 +29,8 @@ The datasets referenced below include Worldwide temperature data, though our foc
 ## References
 
 ### Temperature data gathered in Canada, dates range from 1917 - 2017
-https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-dataloversbrazil
+https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-dataloversbrazil  
+Public Domain License
 
 ### Temperature data gathered around the World, dates range from 1750 - 2015.
 https://data.world/data-society/global-climate-change-data  
@@ -37,8 +38,9 @@ https://berkeleyearth.org/data/
 Berkeley Earth’s data is licensed under Creative Commons BY-NC 4.0 International
 
 ### Canadian Well-Being Index
-https://open.canada.ca/data/en/dataset/56578f58-a775-44ea-9cc5-9bf7c78410e6
+https://open.canada.ca/data/en/dataset/56578f58-a775-44ea-9cc5-9bf7c78410e6  
 Open Government License - Canada
 
 ### Temperature Data Heat Map for BC
-https://open.canada.ca/data/en/dataset/2364749d-70a0-4874-956d-a636401ac5a6/resource/6ade85af-8d5e-4d6e-a429-6cf8d87516ba?inner_span=True
+https://open.canada.ca/data/en/dataset/2364749d-70a0-4874-956d-a636401ac5a6/resource/6ade85af-8d5e-4d6e-a429-6cf8d87516ba?inner_span=True  
+Open Government License - Canada
