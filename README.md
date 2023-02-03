@@ -32,8 +32,8 @@ The datasets referenced below include Worldwide temperature data, though our foc
 https://data.world/pegarciadotcom/canada-monthly-weather-data-1917-2017-dataloversbrazil
 
 ### Temperature data gathered around the World, dates range from 1750 - 2015.
-https://data.world/data-society/global-climate-change-data
-https://berkeleyearth.org/data/
+https://data.world/data-society/global-climate-change-data  
+https://berkeleyearth.org/data/  
 Berkeley Earth’s data is licensed under Creative Commons BY-NC 4.0 International
 
 ### Canadian Well-Being Index
