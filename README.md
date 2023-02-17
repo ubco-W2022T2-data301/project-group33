@@ -25,7 +25,7 @@ This repository accompanies the journal article titled Vertebrate biodiversity o
 
 ## Images
 
-This image, which was taken from the internet, is one example of Climate Change in Canada over the years of
+This image, which was taken from the internet, is one example of Climate Change in Canada from the years 1830 to 2020.
 
 ![Canadian Temperature Change](./images/Canada-temperature-chart.png)
 
