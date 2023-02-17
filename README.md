@@ -8,7 +8,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-For the temperature datasets, we will analyze any fluctuations we find that occur between 1917 and 2017. We will also determine if these datasets are capable of validating the fact that climate change is a real issue that is occuring worldwide. We will also try to determine how climate change may have had an impact on Indigenous community and the wildlife local to BC, Canada.
+For the temperature datasets, we will analyze any fluctuations we find that occur between 1917 and 2017. We will also determine if these datasets are capable of validating the fact that climate change is a real issue that is occuring worldwide. We will also try to determine if climate change may have had an impact on Indigenous community and the wildlife local to BC, Canada and provide sustainable solutions where possible.
 
 ## Describe your dataset in about 150-200 words
 
