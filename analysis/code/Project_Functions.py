@@ -8,20 +8,26 @@ def DataClean(file):
 
     Data_Clean = pd.read_csv(file, usecols=['Stn_Name', 'Prov', 'Tm', 'S', 'P'], skiprows=31)
     
-    # I am considering a 0 in Snowfall or Precipation columns to mean
-    # that there was no data was available to collect for the time period
-    Data_Clean.replace({'S':0, 'P':0}, inplace=True)
+    # Data cleaning for the Canadian Temperature datasets in the raw folder
+    data_clean = pd.read_csv(file, usecols=['Stn_Name', 'Prov', 'P', 'S', 'Tm'], sep = ",", skiprows=31)
     
-    # Exract Year and Month from file name
+    # I am assuming a nan value for snowfall and precipitation implies that
+    # there was no data collected for these values within given time period.
+    # Therefore, replace these NaN values with 0.
+    
+    NanValues = {'S':0, 'P':0}
+    data_clean.fillna(value = NanValues, inplace=True)
+    
+    # Insert columns for Year and Month, for useful data analysis, 
+    # These values are extracted from the file name
     date = file[30:37].strip(".").split("_")
+    data_clean.insert(0, 'Year', date[0], allow_duplicates = True) # date[0] gives the year
+    data_clean.insert(1, 'Month', date[1], allow_duplicates = True) # date[1] gives the month
     
-    Data_Clean.insert(0, 'Year', int(date[0])) # date[0] gives the year
-    Data_Clean.insert(1, 'Month', int(date[1])) # date[1] gives the month
-    
-    # Drop all other NaN values from our dataframes
-    Data_Clean.dropna(inplace=True)
-    
-    # Resets index as many changes were made to create dataframes
-    Data_Clean.reset_index(inplace=True, drop=True)
+    # Consider all other rows with NaN values to be invalid data, drop all these rows.
+    data_clean.dropna(inplace = True)
+
+    # Reset index of 'cleaned' dataframe
+    data_clean.reset_index(inplace=True, drop=True)
     
     return Data_Clean
