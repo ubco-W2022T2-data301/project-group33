@@ -20,7 +20,7 @@ def DataClean(file):
     
     # Insert columns for Year and Month, for useful data analysis, 
     # These values are extracted from the file name
-    date = file[30:37].strip(".").split("_")
+    date = file[24:31].strip(".").split("_")
     data_clean.insert(0, 'Year', date[0], allow_duplicates = True) # date[0] gives the year
     data_clean.insert(1, 'Month', date[1], allow_duplicates = True) # date[1] gives the month
     
