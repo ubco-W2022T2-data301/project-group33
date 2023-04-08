@@ -1,4 +1,5 @@
 # Project Vision
+Our team connected over climate change and our vision is to show different factors impacting the earth and ecosystems, like global temperature over time and biodoversity across different types of land management. We did our best to take the larger global information and highlight parts that relate to our local area.
 
 Add a vision for what you want your project to look like in the end here... Feel free to remove the everything in this section (remember to leave the "Contracted Grade" section at the end.
 
