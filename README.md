@@ -24,7 +24,7 @@ This repository accompanies the journal article titled Vertebrate biodiversity o
 ## Team Members
 
 - Kalli Van Stone: I am a second year data science student.
-- Allysa Webber: one sentence about you!
+- Allysa Webber: I am a 4th year biology student with an interest in data science. 
 - Sarah Quesnelle: I am a 4th year Mathematics student.
 
 ## Images
