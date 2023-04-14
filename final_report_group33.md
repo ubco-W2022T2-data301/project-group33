@@ -16,23 +16,11 @@ Some exploration done in this data set required visualizing all of the climate v
 Has there been a significant change in average temperature for BC, Canada since the year 1917?
 On average, which Province receives the most snowfall in Canada since 1917?
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src='./images/BC_avg_temp.png''./ width="100%"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src='./images/Canada_Snowfall.png' width="100%"/>
-     </div>
-</div>
+![BC Avg Temp](./images/BC_avg_temp.png)
 
-<div style="display:flex">
-     <div style="flex:1;padding-right:10px;">
-          <img src='./images/Canada_Average_Rainfall.png' width="100%"/>
-     </div>
-     <div style="flex:1;padding-left:10px;">
-          <img src='./images/Canada_Heavy_Rainstorms.png' width="100%"/>
-     </div>
-</div>
+![Canada Snowfall](./images/Canada_Snowfall.png)
+
+![Canada Average Rainfall](./images/Canada_Heavy_Rainstorms.png)
 
 ### Results 1
 
