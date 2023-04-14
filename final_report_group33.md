@@ -13,18 +13,20 @@ Some exploration done in this data set required visualizing all of the climate v
 
 ## Question 1
 
-Has there been a significant change in average temperature for BC, Canada since the year 1917?
-On average, which Province receives the most snowfall in Canada since 1917?
+The questions Sarah had were if there is a significant change in average temperature for British Columbia since the year 1917? Which Station has seen the greatest amount of snowfall in Canada?
+Which Province recieves the greatest amount of rainfall?
 
 ![BC Avg Temp](./images/BC_avg_temp.png)
 
 ![Canada Snowfall](./images/Canada_Snowfall.png)
 
+![Canada Average Rainfall](./images/Canada_Average_Rainfall.png)
+
 ![Canada Average Rainfall](./images/Canada_Heavy_Rainstorms.png)
 
 ### Results 1
 
-Sarah concludes that, yes, there has been a significant change in average temperature for BC, Canada as the temerature variability ranges from 5 degrees Celsius to 9 degrees Celsius. However, this graph also shows that the overall average temperature change from the year 1917 to 2017 is only 1 degree Celsius. Another interesting fact is that there has been a general upward trend in the average temperature for BC since the mid to late 1970s.
+Sarah concludes that, yes, there has been a significant change in average temperature for BC, Canada as the temerature variability ranges from 5 degrees Celsius to 9 degrees Celsius. However, this graph also shows that the overall average temperature change from the year 1917 to 2017 is only 1 degree Celsius. Another interesting fact is that there has been a general upward trend in the average temperature for BC since the mid to late 1970s. Sarah found that Newfoundland and Labrador, being in the lead by mere centimeters, recieves the greatest average amount of snowfall. Lastly, she found that while Nova Scotia recieves the most rainfall on average, it is British Columbia that recieves by far the most heavy rainstorms of any province.
 
 ## Question 2
 
